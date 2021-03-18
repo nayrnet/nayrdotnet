@@ -1,7 +1,7 @@
 ---
 title: "network services"
 date: 2021-03-17T23:40:47-06:00
-draft: true
+draft: false
 ---
 ### public
 * [igate.nayr.net](https://igate.nayr.net) - Bi Directional APRS Internet Gateway
