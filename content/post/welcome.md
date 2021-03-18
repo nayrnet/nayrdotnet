@@ -10,11 +10,15 @@ I'm not quite sure why you are here, yet there you are. Have some cookies.
 What is all this for you may ask your self? Well this is an on premises (mostly)
 cloud research and development environment. I run long lived production workloads,
 short lived research environments and everything in-between, this place lets me
-do things unconstrained by my imagination, in the presuit of knowledge.
-donates spare resources to worthy causes I find in need of some cloud computing.
+do fun things in the pursuit of knowledge.
+
+Most production workloads are in support of various projects I find worthy, some
+are my own, some are donated to projects in need.
 
 If you are one of my users you'll find all the details, stats, dashboards and
 everything else you need here. If you are not one of my users and you have a
 FOSS project in need of some cloud lab space feel free to reach out to me.
+
+source for this site: https://github.com/nayrnet/nayrdotnet
 
 -Ryan

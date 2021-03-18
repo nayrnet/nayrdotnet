@@ -16,10 +16,10 @@ sectionPagesMenu = "main"
 [params]
   description = "networks for nothing"
   cover = "images/avatar.png"
-  author = "nayrnet"
-  authorlocation = ""
+  author = "admin"
+  authorlocation = "Denver, CO"
   authorwebsite = "https://nayr.com"
-  bio= "my bio"
+  bio= "network admin of nayr.net"
   logo = "images/avatar.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
