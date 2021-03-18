@@ -4,9 +4,9 @@ title = "|nayr|NETworks|"
 theme = "hugo-theme-air"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2021"
 canonifyurls = true
 sectionPagesMenu = "main"
+EnableGitInfo = "true"
 
 [author]
   name = "admin"
