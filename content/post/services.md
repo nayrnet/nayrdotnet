@@ -4,9 +4,9 @@ date: 2021-03-17T23:40:47-06:00
 draft: false
 ---
 ### public
+* [keyserver.us](https://keyserver.us) - OpenPGP KeyServer
 * [igate.nayr.net](https://igate.nayr.net) - Bi Directional APRS Internet Gateway
 * [public-wifi.nayr.net](https://public-wifi.nayr.net) - Free Public WiFi Internet
-* [pgpkeys.nayr.net](https://pgpkeys.nayr.net) - Public PGP KeyServer (coming soon)
 
 ### users
 * [grafana.nayr.net](https://grafana.nayr.net) - Network Stats/Monitoring
